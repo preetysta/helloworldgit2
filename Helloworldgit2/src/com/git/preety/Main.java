@@ -12,6 +12,8 @@ public class Main {
 	private static void displayGreeting() {
 		System.out.println("Welcome to GitHub!");
 		
+		System.out.println("Adding one more print line");
+		
 	}
 
 }
